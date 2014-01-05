@@ -1,1 +1,1 @@
-testing
+/tmp/test.txt
