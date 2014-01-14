@@ -1,2 +1,4 @@
-app 
+/app 
 /bin
+Gemfile
+/Rakefile
